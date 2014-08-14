@@ -1,0 +1,22 @@
+{
+  "name": "flip-text",
+  "description": "A node module and CLI for flipping text upside-down.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "flip": "bin/flip"
+  },
+  "author": "Cameron Lakenen <cameron@lakenen.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakenen/flip-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakenen/flip-text/issues"
+  },
+  "homepage": "https://github.com/lakenen/flip-text"
+}
