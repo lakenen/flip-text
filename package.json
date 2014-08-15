@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lakenen/flip-text/issues"
   },
-  "homepage": "https://github.com/lakenen/flip-text"
+  "homepage": "https://github.com/lakenen/flip-text",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
 }
