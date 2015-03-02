@@ -1,7 +1,7 @@
 {
   "name": "flip-text",
   "description": "A node module and CLI for flipping text upside-down.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "node test/index"
