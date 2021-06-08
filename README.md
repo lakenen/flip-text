@@ -29,4 +29,4 @@ flip "Beep boop, BOP?"
 
 ([The MIT License](LICENSE))
 
-Copyright 2014 Cameron Lakenen
+Copyright 2021 Cameron Lakenen
